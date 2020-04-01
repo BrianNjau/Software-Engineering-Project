@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BrianNjau/Monster-searcher/static/css/main.2bbfeab3.chunk.css",
+    "main.js": "/BrianNjau/Monster-searcher/static/js/main.5a6489ac.chunk.js",
+    "main.js.map": "/BrianNjau/Monster-searcher/static/js/main.5a6489ac.chunk.js.map",
+    "runtime-main.js": "/BrianNjau/Monster-searcher/static/js/runtime-main.bbcde2f6.js",
+    "runtime-main.js.map": "/BrianNjau/Monster-searcher/static/js/runtime-main.bbcde2f6.js.map",
+    "static/js/2.a05dcfec.chunk.js": "/BrianNjau/Monster-searcher/static/js/2.a05dcfec.chunk.js",
+    "static/js/2.a05dcfec.chunk.js.map": "/BrianNjau/Monster-searcher/static/js/2.a05dcfec.chunk.js.map",
+    "index.html": "/BrianNjau/Monster-searcher/index.html",
+    "precache-manifest.9cadd1c572893512b4209544be5ae023.js": "/BrianNjau/Monster-searcher/precache-manifest.9cadd1c572893512b4209544be5ae023.js",
+    "service-worker.js": "/BrianNjau/Monster-searcher/service-worker.js",
+    "static/css/main.2bbfeab3.chunk.css.map": "/BrianNjau/Monster-searcher/static/css/main.2bbfeab3.chunk.css.map",
+    "static/js/2.a05dcfec.chunk.js.LICENSE.txt": "/BrianNjau/Monster-searcher/static/js/2.a05dcfec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbcde2f6.js",
+    "static/js/2.a05dcfec.chunk.js",
+    "static/css/main.2bbfeab3.chunk.css",
+    "static/js/main.5a6489ac.chunk.js"
+  ]
+}
